@@ -34,4 +34,4 @@
 pip install -r install.txt
 
 ```
-##Excellent server vendor recommendation: VTEXS
+## Excellent server vendor recommendation: VTEXS
